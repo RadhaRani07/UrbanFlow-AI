@@ -83,3 +83,11 @@ B.Tech AI/ML Student
 
 [View UrbanFlow AI Demo PDF](https://github.com/RadhaRani07/UrbanFlow-AI/blob/main/UrbanFlow_AI_Demo.pdf.pdf)
 
+## 🌐 Live Application
+
+[Open UrbanFlow AI](https://urbanflow-ai-yf5fjztpt7uthuepnzeazx.streamlit.app/)
+
+## 📄 Project Demo
+
+[View UrbanFlow AI Demo PDF](https://github.com/RadhaRani07/UrbanFlow-AI/blob/main/UrbanFlow_AI_Demo.pdf.pdf)
+
