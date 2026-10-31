@@ -79,4 +79,7 @@ The objective is to explore how computer vision and AI-based analytics can suppo
 B.Tech AI/ML Student
 
 **Project:** UrbanFlow AI
+## 📄 Project Demo
+
+[View UrbanFlow AI Demo PDF](https://github.com/RadhaRani07/UrbanFlow-AI/blob/main/UrbanFlow_AI_Demo.pdf.pdf)
 
